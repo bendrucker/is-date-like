@@ -1,0 +1,31 @@
+{
+  "name": "is-date-like",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Check if a value is a date or ISO string",
+  "license": "MIT",
+  "repository": "bendrucker/is-date-like",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "date",
+    "iso",
+    "string"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "regex-iso-date": "~1.0.0"
+  }
+}
