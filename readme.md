@@ -1,4 +1,4 @@
-# is-date-like [![Build Status](https://travis-ci.org/bendrucker/is-date-like.svg?branch=master)](https://travis-ci.org/bendrucker/is-date-like)
+# is-date-like [![Build Status](https://travis-ci.org/bendrucker/is-date-like.svg?branch=master)](https://travis-ci.org/bendrucker/is-date-like) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/is-date-like.svg)](https://greenkeeper.io/)
 
 > Check if a value is a date or ISO string
 
